@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📚 I'm Mia Tang (she/her), a student at Carnegie Mellon University studying Computer Science and Graphic Design. 
+🌱 I’m currently learning GLSL shaders, openCV, and making my own typeface with code. 
+🐕 Fun fact: I have 2 corgis named Mango & Leeze. 
+📫 Visit my website for more information: [website](https://mia-tang.com/)
+
