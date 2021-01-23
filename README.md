@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 📚 I'm Mia Tang (she/her), a student at Carnegie Mellon University studying Computer Science and Graphic Design. 
-- 🌱 Currently learning GLSL shaders, openCV, and making my own typeface. 
+- 🌱 Currently learning GLSL shaders & openCV.
 - ✨ A big typography, color & motion enthusiast.
 - 🐕 Fun fact: I have *2* corgis named Mango & Leeze. 
 - 📫 Visit my website for more information: [website](https://mia-tang.com/)
