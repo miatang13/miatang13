@@ -1,4 +1,4 @@
-### Hey 👋
+### Hey
 
 <!--
 **miatang13/miatang13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📚 I'm Mia Tang (she/her), a student at Carnegie Mellon University studying Computer Science and Graphic Design.  
-- 📫 Visit my website for more information: [website](https://mia-tang.com/)
+- I'm Mia Tang (she/her), a student at Carnegie Mellon University studying Computer Science and Graphic Design.  
+-Visit my website for more information: [website](https://mia-tang.com/)
 
