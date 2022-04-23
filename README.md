@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm Mia Tang (she/her), a student at Carnegie Mellon University studying Computer Science and Graphic Design.  
+- I'm Mia Tang (she/her), a student at Carnegie Mellon University studying Computer Science and Design.  
 - Visit my website for more information: [website](https://mia-tang.com/)
 
